@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68f98cb6-b362-48c5-b622-9d89c54cbe34" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/EmployeeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/service/EmployeeServiceTest.java" afterDir="false" />
+    <list default="true" id="68f98cb6-b362-48c5-b622-9d89c54cbe34" name="Changes" comment="TA la Stream si Test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +41,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": ""
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "D:/Documents/JAVA/examenJavaWeb/workingWithStreamAPI"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -61,7 +53,7 @@
       <recent name="service" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.EmployeeServiceTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="workingWithStreamAPI" />
@@ -102,9 +94,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.EmployeeServiceTest" />
         <item itemvalue="JUnit.EmployeeServiceTest.getFemalesBornAfter1990_shouldReturnCorrectEmployees" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -116,8 +108,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700032779350</updated>
-      <workItem from="1700032780993" duration="10407000" />
+      <workItem from="1700032780993" duration="11086000" />
+      <workItem from="1700044134988" duration="479000" />
+      <workItem from="1700045019883" duration="954000" />
+      <workItem from="1700151548669" duration="5540000" />
     </task>
+    <task id="LOCAL-00001" summary="TA la Stream si Test">
+      <created>1700043606762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700043606762</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,5 +136,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TA la Stream si Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="TA la Stream si Test" />
   </component>
 </project>
